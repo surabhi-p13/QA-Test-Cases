@@ -1,2 +1,2 @@
 # QA-Test-Cases
-login functionality checking with demo webistes
+login functionality checking with demo websites
